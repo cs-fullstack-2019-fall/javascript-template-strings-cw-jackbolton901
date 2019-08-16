@@ -12,5 +12,3 @@ var cantestant= "1_M_1337!";
 var score= "9001";
 
 let theTemp= `Congratulations ${cantestant}!!!! Your score is ${score}`
-
- .
